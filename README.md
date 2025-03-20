@@ -1,3 +1,4 @@
+<!--
 - 👋 Hi, I’m @ROHIT
 - 👀 I’m interested in play badminton
 - 🌱 I’m currently learning B.TECH in CSE
@@ -8,7 +9,7 @@
 ROHIT8759/ROHIT8759 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!--
 <h1 align="center">Hi 👋, I'm Rohit Kumar Kundu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -29,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rohit_kumarkundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rohit_kumarkundu" height="30" width="40" /></a>
@@ -47,5 +48,71 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ROHIT8759&show_icons=true&locale=en" alt="ROHIT8759" /></p>
 
 <!---!<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ROHIT8759" alt="ROHIT8759" /></p> --->
-
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ROHIT8759&show_icons=true&theme=radical" alt="ROHIT8759" /></p>
+-->
+
+
+## 🚀 Hi, I'm Rohit Kumar Kundu!
+
+### 💻 Frontend Developer | Web 3.0 Enthusiast | Open-Source Contributor
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ROHIT8759&label=Profile%20views&color=0e75b6&style=flat" alt="ROHIT8759" /> </p>
+
+---
+
+### 🌟 About Me
+
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering**
+- 💡 Passionate about **Data Science, Full Stack Development, and Web 3.0**
+- 🔥 Active **open-source contributor** (Hacktoberfest 2024 badges ✅)
+- 🏆 Love **solving complex challenges & enhancing user experiences**
+- 🚀 Currently working on **LNC & Web 3.0 projects**
+- 📫 Reach me at **kundurohit53@gmail.com**
+
+---
+
+### 🛠 Tech Stack & Tools
+
+#### **Languages & Frameworks**
+
+- **Languages**: C, C++, JavaScript, TypeScript, Python
+- **Frontend**: React, Tailwind, Vue.js
+- **Backend**: Node.js, Express.js, MongoDB
+- **DevOps & Tools**: AWS, GCP, Git, Linux, Figma
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔗 **[Project LNC](#)** - *A brief description of what this project does.*
+- 🔗 **[Web 3.0 Secure Docs](#)** - *Blockchain-based document storage.*
+- 🔗 **[Hacktoberfest Contributions](#)** - *Open-source projects I contributed to.*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ROHIT8759&show_icons=true&theme=radical" alt="ROHIT8759" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ROHIT8759&show_icons=true&locale=en&layout=compact" alt="ROHIT8759" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="left">
+  <a href="https://dev.to/rohit_kumarkundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
+  <a href="https://twitter.com/rohit_kr_kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rohit-kumar-kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/rohit-kumar-kundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
