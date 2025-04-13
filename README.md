@@ -93,9 +93,9 @@ You can click the Preview link to take a look at your changes.
 
 ### 📌 Featured Projects
 
-- 🔗 **[Project LNC](#)** - *A brief description of what this project does.*
-- 🔗 **[Web 3.0 Secure Docs](#)** - *Blockchain-based document storage.*
-- 🔗 **[Hacktoberfest Contributions](#)** - *Open-source projects I contributed to.*
+- 🔗 **[Project LNC](#)** 
+- 🔗 **[Web 3.0 Secure Docs](#)**
+- 🔗 **[Hacktoberfest Contributions](#)**
 
 ---
 
