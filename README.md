@@ -46,7 +46,11 @@
 ### 🐍 `user@ROHIT8759:~$ ./run_snake.sh`
 
 <p align="center">
-  <img src="https://github.com/ROHIT8759/ROHIT8759/blob/output/github-contribution-grid-snake.svg?raw=true" alt="snake" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ROHIT8759/ROHIT8759/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ROHIT8759/ROHIT8759/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ROHIT8759/ROHIT8759/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ### 📂 `user@ROHIT8759:~$ ls -la ./projects`
