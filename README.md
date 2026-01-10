@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Initialising+Rohit_Kumar_Kundu...;npm+install+full-stack-skills;git+commit+-m+'Building+Web3';System+Ready..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Initialising+Rohit_Kumar_Kundu...;npm+install+full-stack-skills;git+commit+-m+'Building+Web3';docker+compose+up+-d;System+Ready+%E2%9C%85;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
 
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ROHIT8759&label=TRAFFIC&color=20C20E&style=for-the-badge&logo=github" alt="ROHIT8759" />
+  <img src="https://img.shields.io/github/followers/ROHIT8759?style=for-the-badge&color=20C20E&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ROHIT8759?style=for-the-badge&color=20C20E&logo=github&label=Total%20Stars" alt="Stars" />
 </div>
 
 ### 💻 `user@ROHIT8759:~$ cat profile.json`
@@ -45,6 +47,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHIT8759&theme=github-dark-blue&hide_border=true" alt="ROHIT8759 Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ROHIT8759&theme=github_dark" alt="Productive Time" width="49%" />
+</p>
+
+### 🏆 `user@ROHIT8759:~$ cat /proc/achievements`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ROHIT8759&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Achievements" />
 </p>
 
 ### 🐍 `user@ROHIT8759:~$ ./run_snake.sh`
@@ -55,6 +64,18 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ROHIT8759/ROHIT8759/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ROHIT8759/ROHIT8759/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+### 📈 `user@ROHIT8759:~$ git log --graph --all`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHIT8759&theme=github_dark" alt="Profile Details" width="100%" />
+</p>
+
+### 💭 `user@ROHIT8759:~$ fortune | cowsay`
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
 ### 📂 `user@ROHIT8759:~$ ls -la ./projects`
@@ -77,6 +98,20 @@ drwxr-xr-x  hacktoberfest_contribs
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### ⚡ `user@ROHIT8759:~$ tail -n 5 ~/.bash_history`
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ROHIT8759&theme=github_dark" alt="Repos by Language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ROHIT8759&theme=github_dark" alt="Most Commit Language" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHIT8759&bg_color=0d1117&color=20c20e&line=20c20e&point=20c20e&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### 🌐 `user@ROHIT8759:~$ netstat -establish`
 
