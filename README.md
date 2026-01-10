@@ -24,7 +24,7 @@
   ],
   "contact": {
     "email": "kundurohit53@gmail.com",
-    "twitter": "@rohit_kr_kundu"
+    "twitter": "@ROHIT_Kr_KUNDU"
   }
 }
 ```
@@ -69,7 +69,7 @@
 ### 📈 `user@ROHIT8759:~$ git log --graph --all`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHIT8759&theme=github_dark" alt="Profile Details" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHIT8759&bg_color=0d1117&color=20c20e&line=20c20e&point=20c20e&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ### 💭 `user@ROHIT8759:~$ fortune | cowsay`
@@ -102,8 +102,8 @@ drwxr-xr-x  hacktoberfest_contribs
 ### ⚡ `user@ROHIT8759:~$ tail -n 5 ~/.bash_history`
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ROHIT8759&theme=github_dark" alt="Repos by Language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ROHIT8759&theme=github_dark" alt="Most Commit Language" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ROHIT8759&theme=github_dark&hide_border=true&layout=compact" alt="Coding Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ROHIT8759&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
@@ -116,8 +116,8 @@ drwxr-xr-x  hacktoberfest_contribs
 ### 🌐 `user@ROHIT8759:~$ netstat -establish`
 
 <p align="left">
-  <a href="https://dev.to/rohit_kumarkundu" target="blank"><img src="https://img.shields.io/badge/terminal-dev.to-0A0A0A?style=social&logo=dev.to" alt="Dev.to" /></a>
-  <a href="https://twitter.com/rohit_kr_kundu" target="blank"><img src="https://img.shields.io/badge/terminal-twitter-1DA1F2?style=social&logo=twitter" alt="Twitter" /></a>
+  <a href="https://dev.to/rohit_kumarkundu_3aaad20" target="blank"><img src="https://img.shields.io/badge/terminal-dev.to-0A0A0A?style=social&logo=dev.to" alt="Dev.to" /></a>
+  <a href="https://x.com/ROHIT_Kr_KUNDU" target="blank"><img src="https://img.shields.io/badge/terminal-twitter-1DA1F2?style=social&logo=twitter" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/rohit-kumar-kundu" target="blank"><img src="https://img.shields.io/badge/terminal-linkedin-0077B5?style=social&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:kundurohit53@gmail.com" target="blank"><img src="https://img.shields.io/badge/terminal-email-D14836?style=social&logo=gmail" alt="Gmail" /></a>
 </p>
