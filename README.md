@@ -53,7 +53,13 @@
 ### 🏆 `user@ROHIT8759:~$ cat /proc/achievements`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ROHIT8759&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Achievements" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ROHIT8759&theme=github_dark" alt="Profile Summary" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ROHIT8759&theme=github_dark" alt="Repos Per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ROHIT8759&theme=github_dark" alt="Most Commit Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ROHIT8759&theme=github_dark" alt="Stats" width="32%" />
 </p>
 
 ### 🐍 `user@ROHIT8759:~$ ./run_snake.sh`
@@ -100,11 +106,6 @@ drwxr-xr-x  hacktoberfest_contribs
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚡ `user@ROHIT8759:~$ tail -n 5 ~/.bash_history`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ROHIT8759&theme=github_dark&hide_border=true&layout=compact" alt="Coding Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ROHIT8759&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" width="49%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHIT8759&bg_color=0d1117&color=20c20e&line=20c20e&point=20c20e&area=true&hide_border=true" alt="Activity Graph" width="100%" />
