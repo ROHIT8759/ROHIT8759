@@ -1,113 +1,80 @@
-<h1 align="center">🎮 Player 1 Ready: Rohit Kumar Kundu</h1>
-<h3 align="center">Class: Backend Architect | Level: Infinite Learner 🚀</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Initialising+Rohit_Kumar_Kundu...;npm+install+full-stack-skills;git+commit+-m+'Building+Web3';System+Ready..." alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ROHIT8759&label=XP%20Gained&color=0e75b6&style=flat" alt="ROHIT8759" />
-  <a href="https://twitter.com/rohit_kr_kundu" target="blank"><img src="https://img.shields.io/twitter/follow/rohit_kr_kundu?logo=twitter&style=for-the-badge&label=Follow%20Ally" alt="rohit_kr_kundu" /></a>
-</p>
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ROHIT8759&label=TRAFFIC&color=20C20E&style=for-the-badge&logo=github" alt="ROHIT8759" />
+</div>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ROHIT8759&column=7&theme=onedark" alt="Achievements Unlocked" />
-</p>
+### 💻 `user@ROHIT8759:~$ cat profile.json`
 
----
-
-### 🕹️ Character Stats
-
-```markdown
-> Loading user profile...
-> USER: Rohit Kumar Kundu
-> CURRENT QUEST: B.Tech in CSE
-> SPECIALIZATION: Backend Development & Web 3.0
-> GUILD: Open Source Community (Hacktoberfest Veteran 🎖️)
-> MAIN SERVER: India 🇮🇳
-
-[====================] 100% PASSION
-[==============......] 70%  WEB3 KNOWLEDGE
-[=================...] 85%  PROBLEM SOLVING
+```json
+{
+  "name": "Rohit Kumar Kundu",
+  "architecture": "B.Tech CSE",
+  "location": "India 🇮🇳",
+  "role": "Full Stack Developer & Web3 Enthusiast",
+  "status": "Online",
+  "current_tasks": [
+    "Building Project LNC",
+    "Exploring Decentralized Webs",
+    "Open Source Contributing"
+  ],
+  "contact": {
+    "email": "kundurohit53@gmail.com",
+    "twitter": "@rohit_kr_kundu"
+  }
+}
 ```
 
----
+### 🛠️ `user@ROHIT8759:~$ list --installed-packages`
 
-### ⚔️ Inventory (Tech Stack)
+| **Core** | **Frontend** | **Backend** | **DevOps & Tools** |
+| :--- | :--- | :--- | :--- |
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) |
 
-#### 🗡️ Weapons (Languages)
-<p align="left"> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
+### 📊 `user@ROHIT8759:~$ htop --stats`
 
-#### 🛡️ Armor & Spells (Frameworks & DBs)
-<p align="left"> 
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-</p>
-
-#### 🎒 Tools & Artifacts
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ROHIT8759&show_icons=true&locale=en&theme=boxmod&hide_border=true" alt="ROHIT8759" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ROHIT8759&show_icons=true&locale=en&layout=compact&theme=boxmod&hide_border=true" alt="ROHIT8759" width="48%" />
 </p>
 
----
+### 🐍 `user@ROHIT8759:~$ ./run_snake.sh`
 
-### 🗺️ Quest Log (Featured Projects)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ROHIT8759/ROHIT8759/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+</p>
 
-| Quest Name | Mission Brief | Loot (Experience) |
-| :--- | :--- | :--- |
-| **Project LNC** | 🚧 *Mission in Progress* | `Node.js` `React` |
-| **Web 3.0 Vault** | Secure artifacts using blockchain magic | `Web3.js` `Solidity` |
-| **Hacktoberfest** | Aid open-source guilds across the realm | `Community` `Git` |
+### 📂 `user@ROHIT8759:~$ ls -la ./projects`
 
----
+```bash
+drwxr-xr-x  project_lnc
+# Working on LNC (Details coming soon)
+# Tech: React, Node.js
 
-### 📜 Adventure Log (Latest Blogs)
+drwxr-xr-x  web3_secure_docs
+# Secure document handling using Web 3.0
+# Tech: Web3.js, Solidity
+
+drwxr-xr-x  hacktoberfest_contribs
+# Contributions to open source projects
+# Tech: Open Source, Git
+```
+
+### 📰 `user@ROHIT8759:~$ tail -f /var/log/blog_posts`
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
+### 🌐 `user@ROHIT8759:~$ netstat -establish`
 
-### 👾 Contribution Boss Fight
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ROHIT8759/ROHIT8759/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-### 📊 Player Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHIT8759&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=0e75b6" alt="ROHIT8759" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ROHIT8759&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&title_color=0e75b6" alt="ROHIT8759" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHIT8759&theme=radical&hide_border=true" alt="ROHIT8759 Streak" />
-</p>
-
----
-
-### 🤝 Join the Party
-
-<p align="center">
-  <a href="https://dev.to/rohit_kumarkundu" target="blank"><img align="center" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
-  <a href="https://twitter.com/rohit_kr_kundu" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/rohit-kumar-kundu" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/rohit-kumar-kundu" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:kundurohit53@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
-
-<p align="center">
-  <i>"Code is like magic, but real."</i> 🧙‍♂️
+<p align="left">
+  <a href="https://dev.to/rohit_kumarkundu" target="blank"><img src="https://img.shields.io/badge/terminal-dev.to-0A0A0A?style=social&logo=dev.to" alt="Dev.to" /></a>
+  <a href="https://twitter.com/rohit_kr_kundu" target="blank"><img src="https://img.shields.io/badge/terminal-twitter-1DA1F2?style=social&logo=twitter" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/rohit-kumar-kundu" target="blank"><img src="https://img.shields.io/badge/terminal-linkedin-0077B5?style=social&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:kundurohit53@gmail.com" target="blank"><img src="https://img.shields.io/badge/terminal-email-D14836?style=social&logo=gmail" alt="Gmail" /></a>
 </p>
