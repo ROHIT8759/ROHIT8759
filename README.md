@@ -46,7 +46,7 @@
 ### 🐍 `user@ROHIT8759:~$ ./run_snake.sh`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ROHIT8759/ROHIT8759/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
+  <img src="https://github.com/ROHIT8759/ROHIT8759/blob/output/github-contribution-grid-snake.svg?raw=true" alt="snake" width="100%" />
 </p>
 
 ### 📂 `user@ROHIT8759:~$ ls -la ./projects`
