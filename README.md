@@ -38,9 +38,13 @@
 
 ### 📊 `user@ROHIT8759:~$ htop --stats`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHIT8759&show_icons=true&locale=en&theme=boxmod&hide_border=true" alt="ROHIT8759" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ROHIT8759&show_icons=true&locale=en&layout=compact&theme=boxmod&hide_border=true" alt="ROHIT8759" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ROHIT8759&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ROHIT8759" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ROHIT8759&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="ROHIT8759" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHIT8759&theme=github-dark-blue&hide_border=true" alt="ROHIT8759 Streak" width="49%" />
 </p>
 
 ### 🐍 `user@ROHIT8759:~$ ./run_snake.sh`
