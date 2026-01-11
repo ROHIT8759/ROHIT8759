@@ -112,6 +112,9 @@ drwxr-xr-x  hacktoberfest_contribs
 </p>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/ROHIT8759/IPFS_Backend/pull/1#issuecomment-3692909598) in [ROHIT8759/IPFS_Backend](https://github.com/ROHIT8759/IPFS_Backend)
+2. 🗣 Commented on [#1](https://github.com/ROHIT8759/IPFS_Backend/pull/1#issuecomment-3692909179) in [ROHIT8759/IPFS_Backend](https://github.com/ROHIT8759/IPFS_Backend)
+3. ❌ Closed PR [#1](https://github.com/ROHIT8759/KINETIC/pull/1) in [ROHIT8759/KINETIC](https://github.com/ROHIT8759/KINETIC)
 <!--END_SECTION:activity-->
 
 ### 🌐 `user@ROHIT8759:~$ netstat -establish`
