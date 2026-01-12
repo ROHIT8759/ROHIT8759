@@ -105,15 +105,6 @@ drwxr-xr-x  hacktoberfest_contribs
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
-### 🌐 `user@ROHIT8759:~$ netstat -establish`
-
-<p align="center">
-  <a href="https://dev.to/rohit_kumarkundu_3aaad20" target="blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
-  <a href="https://x.com/ROHIT_Kr_KUNDU" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://linkedin.com/in/rohit-kumar-kundu" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kundurohit53@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
-
 ### 🕐 `user@ROHIT8759:~$ timedatectl`
 
 ```
@@ -126,6 +117,18 @@ drwxr-xr-x  hacktoberfest_contribs
 │  📧 Response time: Usually within 24 hours                   │
 └──────────────────────────────────────────────────────────────┘
 ```
+
+
+### 🌐 `user@ROHIT8759:~$ netstat -establish`
+
+<p align="center">
+  <a href="https://dev.to/rohit_kumarkundu_3aaad20" target="blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+  <a href="https://x.com/ROHIT_Kr_KUNDU" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://linkedin.com/in/rohit-kumar-kundu" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kundurohit53@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+
 
 <p align="center">
   <i>"Code is like magic, but real."</i> 🧙‍♂️
