@@ -46,16 +46,10 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ROHIT8759&theme=dark&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="GitHub Streak" />
-  </a>
-</p>
-
 ### 📈 `user@ROHIT8759:~$ git log --graph`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROHIT8759&bg_color=0d1117&color=20c20e&line=20c20e&point=20c20e&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/20c20e/ROHIT8759" alt="GitHub Contribution Chart" width="100%" />
 </p>
 
 ### 📂 `user@ROHIT8759:~$ ls -la ./projects`
