@@ -41,12 +41,15 @@
 ### 📊 `user@ROHIT8759:~$ htop --stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ROHIT8759&show_icons=true&theme=github_dark&hide_border=true" alt="ROHIT8759 Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ROHIT8759&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="49%" />
+  <a href="https://github.com/ROHIT8759">
+    <img src="https://github-stats-alpha.vercel.app/api?username=ROHIT8759&cc=0d1117&tc=20c20e&ic=20c20e&bc=0d1117" alt="ROHIT8759 Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ROHIT8759&theme=github-dark-blue&hide_border=true" alt="ROHIT8759 Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ROHIT8759&theme=dark&hide_border=true&background=0D1117&ring=20C20E&fire=20C20E&currStreakLabel=20C20E" alt="GitHub Streak" />
+  </a>
 </p>
 
 ### 📈 `user@ROHIT8759:~$ git log --graph`
