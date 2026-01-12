@@ -67,6 +67,35 @@
    The snake updates every 12 hours automatically.
 ```
 
+
+
+### 🏅 `user@ROHIT8759:~$ cat ~/.holopin/badges`
+
+<p align="center">
+  <a href="https://holopin.io/@rohit8759">
+    <img src="https://holopin.me/rohit8759" alt="Holopin Badges" />
+  </a>
+</p>
+
+```
+🎖️ My earned badges from Hacktoberfest & other events!
+   Collect yours: https://holopin.io
+```
+
+### 🕐 `user@ROHIT8759:~$ timedatectl`
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  🌍 TIMEZONE: Asia/Kolkata (IST)                             │
+│  📍 LOCATION: India                                          │
+│  🕐 UTC OFFSET: +05:30                                       │
+│                                                              │
+│  💼 Best time to reach me: 10:00 AM - 10:00 PM IST           │
+│  📧 Response time: Usually within 24 hours                   │
+└──────────────────────────────────────────────────────────────┘
+```
+
+
 ### 📂 `user@ROHIT8759:~$ ls -la ./projects`
 
 ```bash
@@ -98,59 +127,6 @@ drwxr-xr-x  hacktoberfest_contribs
   <a href="mailto:kundurohit53@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-### 🎵 `user@ROHIT8759:~$ spotify --now-playing`
-
-<p align="center">
-  <a href="https://open.spotify.com/user/3125zl5ptsntb5zbxblaaw5h77jq?si=xgIr2BBoQz-dSQJhGsg8jA">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3125zl5ptsntb5zbxblaaw5h77jq?si=xgIr2BBoQz-dSQJhGsg8jA&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=true&bar_color=20c20e&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
-
-```
-🎧 Currently vibing to some tunes while coding...
-   Connect your Spotify: https://spotify-github-profile.kittinanx.com/
-```
-
-### 🏅 `user@ROHIT8759:~$ cat ~/.holopin/badges`
-
-<p align="center">
-  <a href="https://holopin.io/@rohit8759">
-    <img src="https://holopin.me/rohit8759" alt="Holopin Badges" />
-  </a>
-</p>
-
-```
-🎖️ My earned badges from Hacktoberfest & other events!
-   Collect yours: https://holopin.io
-```
-
-### ⏱️ `user@ROHIT8759:~$ wakatime --stats`
-
-<p align="center">
-  <a href="https://wakatime.com/@ROHIT8759">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ROHIT8759&theme=github_dark&hide_border=true&layout=compact&custom_title=Weekly%20Coding%20Stats" alt="WakaTime Stats" />
-  </a>
-</p>
-
-```
-⌨️ Track your coding time: https://wakatime.com
-   1. Sign up at wakatime.com
-   2. Install the plugin in VS Code
-   3. Replace ROHIT8759 with your WakaTime username
-```
-
-### 🕐 `user@ROHIT8759:~$ timedatectl`
-
-```
-┌──────────────────────────────────────────────────────────────┐
-│  🌍 TIMEZONE: Asia/Kolkata (IST)                             │
-│  📍 LOCATION: India                                          │
-│  🕐 UTC OFFSET: +05:30                                       │
-│                                                              │
-│  💼 Best time to reach me: 10:00 AM - 10:00 PM IST           │
-│  📧 Response time: Usually within 24 hours                   │
-└──────────────────────────────────────────────────────────────┘
-```
 
 <p align="center">
   <i>"Code is like magic, but real."</i> 🧙‍♂️
