@@ -49,7 +49,7 @@
 ### 📈 `user@ROHIT8759:~$ git log --graph`
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/20c20e/ROHIT8759" alt="GitHub Contribution Chart" width="100%" />
+  <img src="https://ghchart.rshah.org/006400/ROHIT8759" alt="GitHub Contribution Chart" width="100%" />
 </p>
 
 ### 📂 `user@ROHIT8759:~$ ls -la ./projects`
