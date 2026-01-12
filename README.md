@@ -52,6 +52,28 @@
   <img src="https://ghchart.rshah.org/006400/ROHIT8759" alt="GitHub Contribution Chart" width="100%" />
 </p>
 
+### 🎮 `user@ROHIT8759:~$ ./play_game.sh`
+
+<p align="center">
+  <a href="https://github.com/ROHIT8759/ROHIT8759/issues/new?title=chess%7Cnew&body=Just+click+%27Submit+new+issue%27.+You+don%27t+need+to+do+anything+else.">
+    <img src="https://img.shields.io/badge/♟️_Play_Chess_With_Me-Click_Here-20C20E?style=for-the-badge&labelColor=0d1117" alt="Play Chess" />
+  </a>
+</p>
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                    🕹️ MINI GAMES                          ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║   [1] 🐍 Snake Game    → Coming Soon                       ║
+║   [2] ♟️  Chess         → Click Badge Above                ║
+║   [3] 🎯 Code Quiz     → Check My Repos                    ║
+║                                                            ║
+║   > Enter your choice: _                                   ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
 ### 📂 `user@ROHIT8759:~$ ls -la ./projects`
 
 ```bash
